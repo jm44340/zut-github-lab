@@ -7,6 +7,9 @@ int foo(){
 }
 
 int main(int argc, char** argv){
+	
+	printf("my change");
+	
 	printf("Przyklad\n");
 	for(int i = 0 ; i < 100; i++){
 		printf("Test!\n");
