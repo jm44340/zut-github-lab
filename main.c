@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char** argv){
-	printf("Przyklad");
+	puts("Przyklad");
 	return 0;
 }
