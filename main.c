@@ -1,10 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char** argv){
-<<<<<<< HEAD
-	puts("Przyklad");
-=======
-	printf("Przyklad od uzytkownika B");
->>>>>>> origin/conflict
+	printf("Przyklad");
 	return 0;
 }
